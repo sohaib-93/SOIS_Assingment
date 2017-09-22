@@ -1,0 +1,3 @@
+Linux is one of popular version of UNIX operating System. 
+It is open source as its source code is freely available. It is free to use. 
+Linux was designed considering UNIX compatibility. Its functionality list is quite similar to that of UNIX.

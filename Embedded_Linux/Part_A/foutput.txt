@@ -1,0 +1,3 @@
+The number of line: 3
+The number of word: 42
+The number of characters: 242
